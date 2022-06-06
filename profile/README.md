@@ -11,6 +11,16 @@
 
 <p> <strong>Feedopt</strong> has been being developed since October 2021. <strong>Feedopt</strong> which developed with C# .net core as backend and React Native as mobile application aims to be the voice of animals. </p>
 
+### Contact With Us 
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/feedopt/about/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feedoptapp/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/feedopt)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.info@feedopt.com)
+  
+</div>
+
 <a id="feedopt" href="https://feedopt.com/"><h1>Feedopt</h1></a>
 
 <img src="https://user-images.githubusercontent.com/77804034/172111330-35db4cb3-8f69-4b8a-a233-23c642c6f81a.jpg" style="width:70px; heigth:70px"/>
