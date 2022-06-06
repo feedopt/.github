@@ -4,16 +4,5 @@
 <img src="https://user-images.githubusercontent.com/77804034/172105308-87bf8def-6bd1-45f3-a7a4-3b07da55ba88.jpg"/>
 </p>
 
-
-
-
-@font-face {
-  font-family: BetterHeader;
-  src: url(...) format("WOFF2");
-}
-
-h1,h2,h3,h4,h5,h6 {
-  font-family: BetterHeader, Helvetica, Arial, sans;
-}
-
+<h5 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h5>
 
